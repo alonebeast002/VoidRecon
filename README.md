@@ -45,12 +45,12 @@ Unlike basic tools, **VOID RECON** performs a **Baseline Check** before testing.
 
 
 ```bash
-void-recon -m fuzz -u [https://target.com](https://target.com) -w paths.txt -fc 200,301
+void-recon -m fuzz -u https://target.com -w paths.txt -fc 200,301
 
 ```
 **2. Automated 403 Bypass:**
 ```bash
-void-recon -m bypass -u [https://target.com/admin](https://target.com/admin) -o bypass_results.txt
+void-recon -m bypass -u https://target.com/admin -o bypass_results.txt
 
 ```
 **3. Bulk Status Filtering:**
