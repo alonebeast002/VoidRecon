@@ -23,6 +23,10 @@ sudo ./setup.sh
 ```
 
 *After installation, the tool can be executed globally using void-recon.*
+
+```
+  Advanced Web Security Toolkit  |  v2.1  |  Authorized Testing Only By ALONE BEAST
+```
 ## Usage Guide
 void-recon -m <module> [options]
 ### Modules
