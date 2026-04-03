@@ -1,10 +1,9 @@
 ```markdown
 # VOID RECON
 ### Advanced Web Security Toolkit
-**Developer:** [alone-beast](https://github.com/alonebeast002) | **Version:** 2.0
+**Developer:** ALONE BEAST [ https://github.com/alonebeast002/Void-Recon.git ] | **Version:** 2.0
 
 ```text
-   
   _   _  _  ___   ___   ___  ___  ___  ___  _  _ 
  | | | |/ \|_ _| |   \ | __|/  __|/ _ \|  \| |
  | \_/ | O || |  | o  || _| | (__| O || | ' |
