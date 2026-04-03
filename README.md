@@ -65,6 +65,7 @@ void-recon -m check -w domains.txt -fc 200 -o alive.txt
 ## Requirements
  * Python 3.7+
  * requests, colorama, urllib3
+
+ * 
 ## Disclaimer
 This tool is intended for **Authorized Testing Only**. The developer is not responsible for any unauthorized use or damages. Always secure written permission before initiating any security assessment.
-```
