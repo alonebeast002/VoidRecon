@@ -16,8 +16,8 @@
 ## Installation
 
 ```bash
-git clone [https://github.com/alonebeast002/void-recon](https://github.com/alonebeast002/void-recon)
-cd void-recon
+git clone https://github.com/alonebeast002/Void-Recon.git
+cd Void-Recon
 chmod +x setup.sh
 sudo ./setup.sh
 ```
