@@ -1,18 +1,9 @@
-# README.md
 ```markdown
 # VOID RECON
 ### Advanced Web Security Toolkit
 **Developer:** [ALONE BEAST](https://github.com/alonebeast002) | **Version:** 2.1
 
-```text
-  _   _  _  ___   ___   ___  ___  ___  ___  _  _ 
- | | | |/ \|_ _| |   \ | __|/  __|/ _ \|  \| |
- | \_/ | O || |  | o  || _| | (__| O || | ' |
-  \___/ \_/ |_|  |_|\_\|___| \___|\___/|_|\__|
-  
-  Advanced Web Security Toolkit | v2.1 | @alonebeast002
 
-```
 ## Overview
 **VOID RECON** is a high-performance, multi-threaded Python framework designed for automated web security reconnaissance. It eliminates redundant output and focuses on precision through baseline filtering and smart URL parsing.
 ## Key Features
