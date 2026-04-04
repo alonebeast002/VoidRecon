@@ -1,7 +1,3 @@
-### Advanced Web Security Toolkit
-**Developer:** [ALONE BEAST](https://github.com/alonebeast002) | **Version:** 2.1
-
-
 ## Overview
 **VOID RECON** is a high-performance, multi-threaded Python framework designed for automated web security reconnaissance. It eliminates redundant output and focuses on precision through baseline filtering and smart URL parsing.
 ## Key Features
@@ -15,8 +11,8 @@
 ## Installation
 
 ```bash
-git clone https://github.com/alonebeast002/Void-Recon.git
-cd Void-Recon
+git clone https://github.com/alonebeast002/VoidRecon.git
+cd VoidRecon
 chmod +x setup.sh
 ./setup.sh
 ```
