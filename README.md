@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="banner.gif" alt="JS Reaper" width="900"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/version-2.1-red?style=flat-square&labelColor=000"/>
+  <img src="https://img.shields.io/badge/python-3.7+-red?style=flat-square&labelColor=000"/>
+  <img src="https://img.shields.io/badge/platform-linux-red?style=flat-square&labelColor=000"/>
+  <img src="https://img.shields.io/badge/license-MIT-red?style=flat-square&labelColor=000"/>
+</p>
+
+
+
+
+
 ## Overview
 **VOID RECON** is a high-performance, multi-threaded Python framework designed for automated web security reconnaissance. It eliminates redundant output and focuses on precision through baseline filtering and smart URL parsing.
 ## Key Features
